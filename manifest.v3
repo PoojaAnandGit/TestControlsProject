@@ -7,15 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="testControlsFromOnPrem_Render_1">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">02-01-2025 16:37:30 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-01-02T16:37:35.5485446Z</value>
+  <value name="lastUpdated">2025-01-02T16:39:07.7723425Z</value>
+  <value name="wmProjectId">fl2011574ec8f217ad4d1391</value>
+  <value name="creator">Pooja Anand</value>
 </Values>
